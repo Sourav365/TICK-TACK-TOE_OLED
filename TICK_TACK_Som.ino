@@ -1,3 +1,12 @@
+/*
+* Tick-Tack-Toe Game on OLED display (128*64)
+* Choise button: GPIO 8
+* Confirm button: GPIO 9 
+* 
+* By Sourav365
+*/
+
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
